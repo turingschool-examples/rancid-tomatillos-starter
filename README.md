@@ -1,14 +1,26 @@
-# Rancid Tomatillos - Starter Repo
+# Rancid Tomatillos
 
-## [The project spec for Rancid Tomatillos can be found here.](https://curriculum.turing.edu/module3/projects/rancid-tomatillos)
+## Project Overview
+This project is a user facing movie catalog that displays movies by their promotional posters.  It allow users to view each movies current ratings.  The user also has the ability to add their vote to movies with the click of either the up vote or down vote.  The user can also click on the movie to be directed to more details about the selected movie.  The goal of this project was to become familiarity with React.  Through this project we also worked with applying React Router to make it a functional multi page application, and thorough testing with Cypress.
 
-## Set Up
-1.  Fork this repo
-2.  Clone **and rename** this repo: `git clone [remote-address] [new-name]`  
-   For example: `git clone git@github.com:turingschool-examples/rancid-tomatillos-starter.git rancid-tomatillos`
-4.  `cd` into the directory
-5.  Install necessary dependencies with `npm install`
-6.  Run your React app with `npm start`
-7.  Go to `http://localhost:3000/` and you should see a page with some starter elements
-8.  Enter `control + c` in your terminal to stop running the React app at any time
-9. To run Cypress tests, use `npx cypress open`
+
+## Deployed Link
+
+## Technologies
+### Core
+   * React
+   * React Router Dom
+   
+### Testing
+   * Cypress
+
+## Contributors
+   * Bryan Willett
+      * [Github](https://github.com/bwillett2003)
+      * [LinkedIn](https://www.linkedin.com/in/bryan--willett/)
+   * James Cochran
+      * [Github](https://github.com/James-Cochran)
+      * [LinkedIn](https://www.linkedin.com/in/james-cochran-/)
+
+## Preview of App
+   ![Project functionality demonstration](docs/Project_demo.gif)
